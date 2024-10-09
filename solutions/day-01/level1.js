@@ -68,4 +68,14 @@ let companies = ["Facebook", 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'A
 
 console.log('Sliced')
 console.log(companies)
-console.log(companies.slice(-3))
+// console.log(companies.slice(-3))
+
+console.log('Removing first company from the array')
+companies.shift();
+console.log(companies);
+
+// removing the last company fro the array
+companies.pop()
+console.log(companies)
+
+

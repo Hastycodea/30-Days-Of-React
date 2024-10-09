@@ -73,3 +73,6 @@ console.log(fullStack) // [["HTML", "CSS", "JS", "React", "Redux"], ["Node", "Ex
 console.log(fullStack.length) // 2
 console.log(fullStack[0]) // ["HTML", "CSS", "JS", "React", "Redux"]
 console.log(fullStack[1]) // ["Node", "Express", "MongoDB"]
+
+
+console.log(companies)
