@@ -27,3 +27,5 @@ const sum = ages.reduce((acc, age) => acc + age, 0);
 console.log('Sum: '+sum)
 const average = sum / size;
 console.log('Average: ' + average.toFixed(2))
+
+
